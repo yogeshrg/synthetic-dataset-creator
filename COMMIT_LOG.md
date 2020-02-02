@@ -2,3 +2,4 @@
 ## 2020-01-19 15:22:55 - feat(security): create security handler (11/20)
 ## 2020-01-21 14:04:25 - feat(api): create api handler
 ## 2020-01-25 12:28:39 - feat(deploy): create deploy handler (17/20)
+## 2020-02-02 15:37:19 - feat(alert): add alert support (6/20)
