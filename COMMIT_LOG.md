@@ -5,3 +5,4 @@
 ## 2020-02-02 15:37:19 - feat(alert): add alert support (6/20)
 ## 2020-02-15 11:40:19 - feat(worker): add worker endpoint (11/20)
 ## 2020-02-16 14:07:15 - feat(deploy): add deploy support (6/20)
+## 2020-03-01 21:34:26 - feat(log): implement log module (4/20)
