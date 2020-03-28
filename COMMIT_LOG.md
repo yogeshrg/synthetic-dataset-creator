@@ -8,3 +8,4 @@
 ## 2020-03-01 21:34:26 - feat(log): implement log module (4/20)
 ## 2020-03-21 14:23:18 - feat(queue): implement queue feature (20/20)
 ## 2020-03-21 23:53:34 - feat(deploy): create deploy handler (8/20)
+## 2020-03-28 16:13:37 - feat(cache): create cache handler (7/20)
