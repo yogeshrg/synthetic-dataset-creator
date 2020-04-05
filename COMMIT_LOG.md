@@ -10,3 +10,4 @@
 ## 2020-03-21 23:53:34 - feat(deploy): create deploy handler (8/20)
 ## 2020-03-28 16:13:37 - feat(cache): create cache handler (7/20)
 ## 2020-04-04 16:49:47 - feat(model): add model support (6/20)
+## 2020-04-05 12:30:24 - feat(security): add security endpoint (9/20)
