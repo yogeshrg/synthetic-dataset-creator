@@ -11,3 +11,4 @@
 ## 2020-03-28 16:13:37 - feat(cache): create cache handler (7/20)
 ## 2020-04-04 16:49:47 - feat(model): add model support (6/20)
 ## 2020-04-05 12:30:24 - feat(security): add security endpoint (9/20)
+## 2020-04-11 20:42:27 - feat(db): implement db module (2/20)
