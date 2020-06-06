@@ -14,3 +14,4 @@
 ## 2020-04-11 20:42:27 - feat(db): implement db module (2/20)
 ## 2020-05-17 09:05:09 - feat(config): implement config feature (8/20)
 ## 2020-05-24 23:05:25 - feat(auth): implement auth module (1/20)
+## 2020-06-06 20:24:33 - feat(worker): add worker support (13/20)
