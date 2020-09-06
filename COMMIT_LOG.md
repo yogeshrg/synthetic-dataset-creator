@@ -16,3 +16,4 @@
 ## 2020-05-24 23:05:25 - feat(auth): implement auth module (1/20)
 ## 2020-06-06 20:24:33 - feat(worker): add worker support (13/20)
 ## 2020-06-28 23:34:40 - feat(data): add data support (12/20)
+## 2020-09-06 15:40:06 - feat(test): implement test feature (5/20)
