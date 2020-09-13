@@ -17,3 +17,4 @@
 ## 2020-06-06 20:24:33 - feat(worker): add worker support (13/20)
 ## 2020-06-28 23:34:40 - feat(data): add data support (12/20)
 ## 2020-09-06 15:40:06 - feat(test): implement test feature (5/20)
+## 2020-09-13 17:33:36 - feat(config): implement config module (15/20)
