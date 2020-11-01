@@ -19,3 +19,4 @@
 ## 2020-09-06 15:40:06 - feat(test): implement test feature (5/20)
 ## 2020-09-13 17:33:36 - feat(config): implement config module (15/20)
 ## 2020-10-25 21:57:21 - feat(metric): add metric endpoint (19/20)
+## 2020-11-01 18:16:25 - feat(config): add config support (4/20)
