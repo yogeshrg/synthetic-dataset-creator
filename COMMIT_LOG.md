@@ -22,3 +22,4 @@
 ## 2020-11-01 18:16:25 - feat(config): add config support (4/20)
 ## 2020-11-08 18:36:36 - feat(docs): add docs support (8/20)
 ## 2020-11-14 23:15:24 - feat(docs): add docs endpoint (13/20)
+## 2020-11-22 18:08:22 - feat(core): implement core feature (12/20)
