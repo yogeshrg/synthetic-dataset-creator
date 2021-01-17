@@ -25,3 +25,4 @@
 ## 2020-11-22 18:08:22 - feat(core): implement core feature (12/20)
 ## 2020-11-28 22:23:48 - feat(ci): create ci handler (18/20)
 ## 2020-12-12 20:04:20 - feat(cache): add cache support (17/20)
+## 2021-01-17 14:34:15 - feat(worker): implement worker module (5/20)
