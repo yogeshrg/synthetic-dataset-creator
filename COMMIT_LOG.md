@@ -27,3 +27,4 @@
 ## 2020-12-12 20:04:20 - feat(cache): add cache support (17/20)
 ## 2021-01-17 14:34:15 - feat(worker): implement worker module (5/20)
 ## 2021-01-23 12:54:35 - feat(deploy): add deploy support (18/20)
+## 2021-01-31 11:18:03 - feat(docs): add docs support (8/20)
