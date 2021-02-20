@@ -29,3 +29,4 @@
 ## 2021-01-23 12:54:35 - feat(deploy): add deploy support (18/20)
 ## 2021-01-31 11:18:03 - feat(docs): add docs support (8/20)
 ## 2021-01-31 17:29:46 - feat(db): create db handler (9/20)
+## 2021-02-20 22:32:58 - feat(worker): create worker handler (18/20)
