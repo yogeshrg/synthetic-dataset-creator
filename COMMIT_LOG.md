@@ -32,3 +32,4 @@
 ## 2021-02-20 22:32:58 - feat(worker): create worker handler (18/20)
 ## 2021-03-14 09:24:51 - feat(model): add model endpoint (16/20)
 ## 2021-03-20 09:13:06 - feat(data): add data endpoint (7/20)
+## 2021-04-03 09:52:25 - feat(data): add data support (12/20)
