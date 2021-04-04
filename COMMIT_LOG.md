@@ -34,3 +34,4 @@
 ## 2021-03-20 09:13:06 - feat(data): add data endpoint (7/20)
 ## 2021-04-03 09:52:25 - feat(data): add data support (12/20)
 ## 2021-04-04 09:29:09 - feat(infra): implement infra feature (15/20)
+## 2021-04-04 19:07:21 - feat(alert): implement alert feature (9/20)
