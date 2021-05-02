@@ -36,3 +36,4 @@
 ## 2021-04-04 09:29:09 - feat(infra): implement infra feature (15/20)
 ## 2021-04-04 19:07:21 - feat(alert): implement alert feature (9/20)
 ## 2021-04-11 12:38:42 - feat(db): create db handler (15/20)
+## 2021-05-02 17:25:20 - feat(test): add test endpoint (3/20)
