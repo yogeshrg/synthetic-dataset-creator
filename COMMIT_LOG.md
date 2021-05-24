@@ -37,3 +37,4 @@
 ## 2021-04-04 19:07:21 - feat(alert): implement alert feature (9/20)
 ## 2021-04-11 12:38:42 - feat(db): create db handler (15/20)
 ## 2021-05-02 17:25:20 - feat(test): add test endpoint (3/20)
+## 2021-05-24 21:48:06 - feat(data): implement data module
