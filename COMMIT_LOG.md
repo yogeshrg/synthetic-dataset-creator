@@ -39,3 +39,4 @@
 ## 2021-05-02 17:25:20 - feat(test): add test endpoint (3/20)
 ## 2021-05-24 21:48:06 - feat(data): implement data module
 ## 2021-06-06 11:26:04 - feat(data): add data support (18/20)
+## 2021-06-12 15:03:48 - feat(db): add db endpoint (13/20)
