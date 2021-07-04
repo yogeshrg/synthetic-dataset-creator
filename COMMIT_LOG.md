@@ -42,3 +42,4 @@
 ## 2021-06-12 15:03:48 - feat(db): add db endpoint (13/20)
 ## 2021-06-27 11:30:59 - feat(api): create api handler (17/20)
 ## 2021-07-03 14:49:39 - feat(api): implement api feature (15/20)
+## 2021-07-04 19:01:10 - feat(config): implement config module (3/20)
