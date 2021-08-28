@@ -44,3 +44,4 @@
 ## 2021-07-03 14:49:39 - feat(api): implement api feature (15/20)
 ## 2021-07-04 19:01:10 - feat(config): implement config module (3/20)
 ## 2021-07-17 14:20:29 - feat(build): create build handler (11/20)
+## 2021-08-28 13:44:05 - feat(worker): add worker endpoint (13/20)
