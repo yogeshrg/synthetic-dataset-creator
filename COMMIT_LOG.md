@@ -49,3 +49,4 @@
 ## 2021-09-05 19:36:56 - feat(infra): implement infra feature (17/20)
 ## 2021-09-11 21:35:04 - feat(ci): create ci handler (5/20)
 ## 2021-09-18 19:39:48 - feat(config): implement config module (12/20)
+## 2021-10-10 23:16:22 - feat(cache): add cache endpoint (11/20)
