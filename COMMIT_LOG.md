@@ -56,3 +56,4 @@
 ## 2021-11-13 10:21:57 - feat(test): implement test feature (1/20)
 ## 2021-11-14 15:02:33 - feat(log): implement log feature (4/20)
 ## 2021-12-11 13:13:46 - feat(queue): add queue endpoint (3/20)
+## 2021-12-15 14:49:27 - feat(db): add db support
