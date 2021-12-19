@@ -58,3 +58,4 @@
 ## 2021-12-11 13:13:46 - feat(queue): add queue endpoint (3/20)
 ## 2021-12-15 14:49:27 - feat(db): add db support
 ## 2021-12-19 11:30:24 - feat(db): create db handler (1/20)
+## 2021-12-19 14:38:40 - feat(core): implement core feature (15/20)
