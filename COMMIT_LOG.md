@@ -60,3 +60,4 @@
 ## 2021-12-19 11:30:24 - feat(db): create db handler (1/20)
 ## 2021-12-19 14:38:40 - feat(core): implement core feature (15/20)
 ## 2022-01-01 22:36:22 - feat(log): add log support (15/20)
+## 2022-01-02 19:52:54 - feat(ci): implement ci module (3/20)
