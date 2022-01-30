@@ -63,3 +63,4 @@
 ## 2022-01-02 19:52:54 - feat(ci): implement ci module (3/20)
 ## 2022-01-23 13:11:37 - feat(metric): implement metric feature (19/20)
 ## 2022-01-23 15:10:50 - feat(auth): create auth handler (9/20)
+## 2022-01-30 14:17:02 - feat(model): add model support (9/20)
