@@ -64,3 +64,4 @@
 ## 2022-01-23 13:11:37 - feat(metric): implement metric feature (19/20)
 ## 2022-01-23 15:10:50 - feat(auth): create auth handler (9/20)
 ## 2022-01-30 14:17:02 - feat(model): add model support (9/20)
+## 2022-01-30 21:20:49 - feat(cache): implement cache module (6/20)
