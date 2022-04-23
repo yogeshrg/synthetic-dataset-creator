@@ -72,3 +72,4 @@
 ## 2022-03-06 23:55:41 - feat(db): implement db module (18/20)
 ## 2022-03-27 16:45:08 - feat(metric): create metric handler (1/20)
 ## 2022-04-22 18:17:25 - feat(cache): add cache endpoint
+## 2022-04-23 21:11:36 - feat(alert): implement alert module (3/20)
