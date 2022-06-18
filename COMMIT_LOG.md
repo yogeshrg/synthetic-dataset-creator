@@ -75,3 +75,4 @@
 ## 2022-04-23 21:11:36 - feat(alert): implement alert module (3/20)
 ## 2022-06-04 14:58:36 - feat(build): implement build module (4/20)
 ## 2022-06-11 13:16:50 - feat(config): implement config module (7/20)
+## 2022-06-18 10:12:16 - feat(ui): create ui handler (5/20)
