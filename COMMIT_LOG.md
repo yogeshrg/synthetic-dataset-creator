@@ -78,3 +78,4 @@
 ## 2022-06-18 10:12:16 - feat(ui): create ui handler (5/20)
 ## 2022-06-26 21:00:50 - feat(test): create test handler (14/20)
 ## 2022-07-03 19:26:23 - feat(auth): implement auth module (19/20)
+## 2022-07-09 09:48:22 - feat(security): add security endpoint (2/20)
