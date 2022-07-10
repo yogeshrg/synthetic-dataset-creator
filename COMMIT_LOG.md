@@ -81,3 +81,4 @@
 ## 2022-07-09 09:48:22 - feat(security): add security endpoint (2/20)
 ## 2022-07-09 19:47:24 - feat(alert): create alert handler (17/20)
 ## 2022-07-10 13:30:04 - feat(core): create core handler (6/20)
+## 2022-07-10 16:39:51 - feat(monitor): add monitor support (15/20)
