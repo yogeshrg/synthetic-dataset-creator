@@ -84,3 +84,4 @@
 ## 2022-07-10 16:39:51 - feat(monitor): add monitor support (15/20)
 ## 2022-07-17 10:11:29 - feat(build): add build support (14/20)
 ## 2022-07-17 22:35:58 - feat(model): create model handler (7/20)
+## 2022-07-23 09:22:20 - feat(monitor): create monitor handler (14/20)
