@@ -86,3 +86,4 @@
 ## 2022-07-17 22:35:58 - feat(model): create model handler (7/20)
 ## 2022-07-23 09:22:20 - feat(monitor): create monitor handler (14/20)
 ## 2022-07-23 10:55:33 - feat(monitor): implement monitor feature (3/20)
+## 2022-07-30 11:26:01 - feat(docs): add docs endpoint (6/20)
