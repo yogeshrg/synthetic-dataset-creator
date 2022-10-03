@@ -92,3 +92,4 @@
 ## 2022-09-10 19:03:20 - feat(queue): implement queue feature (16/20)
 ## 2022-09-18 17:28:13 - feat(infra): implement infra feature (9/20)
 ## 2022-09-25 18:59:23 - feat(monitor): implement monitor module (13/20)
+## 2022-10-03 10:43:05 - feat(security): add security support
