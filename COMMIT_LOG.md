@@ -95,3 +95,4 @@
 ## 2022-10-03 10:43:05 - feat(security): add security support
 ## 2022-10-16 20:37:17 - feat(metric): create metric handler (12/20)
 ## 2022-10-22 11:14:06 - feat(ci): implement ci module (18/20)
+## 2022-11-12 11:00:57 - feat(infra): create infra handler (4/20)
