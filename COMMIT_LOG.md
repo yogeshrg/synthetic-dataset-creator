@@ -97,3 +97,4 @@
 ## 2022-10-22 11:14:06 - feat(ci): implement ci module (18/20)
 ## 2022-11-12 11:00:57 - feat(infra): create infra handler (4/20)
 ## 2022-12-10 10:13:40 - feat(test): create test handler (16/20)
+## 2023-01-15 23:24:28 - feat(infra): implement infra feature (17/20)
