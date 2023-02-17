@@ -100,3 +100,4 @@
 ## 2023-01-15 23:24:28 - feat(infra): implement infra feature (17/20)
 ## 2023-01-22 21:18:46 - feat(cache): add cache support (2/20)
 ## 2023-02-04 21:37:24 - feat(config): implement config module (14/20)
+## 2023-02-17 21:14:17 - feat(docs): add docs support
