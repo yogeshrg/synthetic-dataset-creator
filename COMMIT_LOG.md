@@ -102,3 +102,4 @@
 ## 2023-02-04 21:37:24 - feat(config): implement config module (14/20)
 ## 2023-02-17 21:14:17 - feat(docs): add docs support
 ## 2023-03-04 10:49:08 - feat(queue): implement queue feature (12/20)
+## 2023-04-30 22:09:54 - feat(deploy): implement deploy module (11/20)
