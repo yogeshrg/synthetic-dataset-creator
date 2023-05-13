@@ -105,3 +105,4 @@
 ## 2023-04-30 22:09:54 - feat(deploy): implement deploy module (11/20)
 ## 2023-05-06 14:15:21 - feat(core): create core handler (7/20)
 ## 2023-05-06 22:58:44 - feat(test): implement test feature (6/20)
+## 2023-05-13 17:03:47 - feat(model): add model endpoint (4/20)
