@@ -109,3 +109,4 @@
 ## 2023-07-15 17:21:37 - feat(test): add test support (15/20)
 ## 2023-07-16 16:42:22 - feat(ci): add ci endpoint (12/20)
 ## 2023-07-22 19:40:53 - feat(monitor): create monitor handler (3/20)
+## 2023-07-30 21:36:58 - feat(docs): add docs endpoint (9/20)
