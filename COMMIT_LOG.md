@@ -114,3 +114,4 @@
 ## 2023-08-19 18:52:41 - feat(db): add db support (20/20)
 ## 2023-09-16 23:57:14 - feat(test): implement test feature (10/20)
 ## 2023-10-28 19:14:05 - feat(cache): add cache support (18/20)
+## 2023-11-05 14:37:31 - feat(api): add api support (19/20)
