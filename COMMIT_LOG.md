@@ -126,3 +126,4 @@
 ## 2024-03-16 13:09:28 - feat(build): implement build feature (9/20)
 ## 2024-03-24 16:27:23 - feat(ui): create ui handler (4/20)
 ## 2024-04-07 18:01:22 - feat(api): add api endpoint (3/20)
+## 2024-04-14 11:16:16 - feat(ci): implement ci feature (8/20)
