@@ -132,3 +132,4 @@
 ## 2024-06-09 10:33:26 - feat(infra): implement infra module (15/20)
 ## 2024-06-23 21:52:06 - feat(deploy): implement deploy feature (4/20)
 ## 2024-07-14 13:37:53 - feat(docs): implement docs module (17/20)
+## 2024-07-20 14:43:00 - feat(auth): add auth support (14/20)
