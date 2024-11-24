@@ -141,3 +141,4 @@
 ## 2024-11-02 14:46:15 - feat(metric): add metric support (11/20)
 ## 2024-11-16 21:08:58 - feat(model): implement model feature (11/20)
 ## 2024-11-17 16:55:58 - feat(db): implement db feature (12/20)
+## 2024-11-24 19:13:37 - feat(monitor): implement monitor feature (3/20)
