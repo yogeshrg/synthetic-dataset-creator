@@ -143,3 +143,4 @@
 ## 2024-11-17 16:55:58 - feat(db): implement db feature (12/20)
 ## 2024-11-24 19:13:37 - feat(monitor): implement monitor feature (3/20)
 ## 2025-01-25 21:39:39 - feat(monitor): implement monitor feature (16/20)
+## 2025-02-08 11:38:45 - feat(metric): add metric endpoint (16/20)
