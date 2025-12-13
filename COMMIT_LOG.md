@@ -159,3 +159,4 @@
 ## 2025-10-04 17:09:01 - feat(model): create model handler (18/20)
 ## 2025-11-08 21:17:14 - feat(worker): create worker handler (6/20)
 ## 2025-11-15 17:51:48 - feat(monitor): add monitor endpoint (12/20)
+## 2025-12-13 23:55:18 - feat(deploy): create deploy handler (18/20)
