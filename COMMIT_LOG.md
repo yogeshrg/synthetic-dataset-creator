@@ -163,3 +163,4 @@
 ## 2026-01-02 15:58:22 - feat(config): create config handler
 ## 2026-01-10 11:21:52 - feat(log): add log endpoint (6/20)
 ## 2026-01-17 18:27:29 - feat(data): add data endpoint (12/20)
+## 2026-02-10 17:38:38 - feat(auth): add auth support
