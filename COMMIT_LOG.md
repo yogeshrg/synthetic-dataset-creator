@@ -164,3 +164,4 @@
 ## 2026-01-10 11:21:52 - feat(log): add log endpoint (6/20)
 ## 2026-01-17 18:27:29 - feat(data): add data endpoint (12/20)
 ## 2026-02-10 17:38:38 - feat(auth): add auth support
+## 2026-02-21 21:00:49 - feat(config): add config endpoint (20/20)
